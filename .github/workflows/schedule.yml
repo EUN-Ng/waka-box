@@ -14,5 +14,5 @@
           with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            GIST_ID: ${{ secrets.GIST_ID }}
+            GIST_ID: dda5fe9ff36c50dfa5b1bb84012bdedb
             TIMEZONE: Asia/Seoul
